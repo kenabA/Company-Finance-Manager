@@ -3,5 +3,4 @@ public enum Status {
   SENIOR_INTERN,
   CEO,
   DEV
-
 }
