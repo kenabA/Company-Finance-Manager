@@ -45,7 +45,6 @@ public class Company {
       case CEO:
         this.salary = 100000;
         break;
-
     }
 
   }
